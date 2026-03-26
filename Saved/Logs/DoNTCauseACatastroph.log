@@ -1250,3 +1250,92 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2026.03.26-12.24.18:613][861]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.03.26-12.24.18:613][861]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.26-12.24.18:613][861]AssetCheck: /Game/Level2 Validating asset
+[2026.03.26-12.34.38:155][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.03.26-12.34.38:159][797]LogStreaming: Display: FlushAsyncLoading(334): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-12.34.38:195][797]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.03.26-12.34.38:205][797]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level1.Level1
+[2026.03.26-12.34.38:205][797]Cmd: MAP LOAD FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.26-12.34.38:226][797]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.34.38:226][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.34.38:243][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.26-12.34.38:246][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.26-12.34.38:249][797]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.34.38:249][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.34.38:267][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.26-12.34.38:353][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.26-12.34.38:386][797]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2026.03.26-12.34.38:386][797]LogChaosDD: Creating Chaos Debug Draw Scene for world Level1
+[2026.03.26-12.34.38:411][797]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.26-12.34.38:432][797]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.03.26-12.34.38:437][797]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.26-12.34.38:437][797]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.061ms to complete.
+[2026.03.26-12.34.38:521][799]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.26-12.34.40:115][890]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2026.03.26-12.34.40:142][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.03.26-12.36.05:820][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.26-12.36.05:821][479]LogStreaming: Display: FlushAsyncLoading(336): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-12.36.05:863][479]LogChaosDD: Creating Chaos Debug Draw Scene for world Level2
+[2026.03.26-12.36.05:877][479]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level2.Level2
+[2026.03.26-12.36.05:877][479]Cmd: MAP LOAD FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.26-12.36.05:893][479]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.36.05:893][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.36.05:912][479]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.26-12.36.05:914][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2026.03.26-12.36.05:916][479]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.36.05:916][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.36.05:934][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.03.26-12.36.06:017][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.26-12.36.06:056][479]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level2'.
+[2026.03.26-12.36.06:056][479]LogChaosDD: Creating Chaos Debug Draw Scene for world Level2
+[2026.03.26-12.36.06:092][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.26-12.36.06:113][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.26-12.36.06:119][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.26-12.36.06:120][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2026.03.26-12.36.06:210][481]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.26-12.36.27:872][763]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2026.03.26-12.36.27:895][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.26-12.36.30:262][763]LogSlate: Window 'Save Content' being destroyed
+[2026.03.26-12.36.30:299][763]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.36.30:359][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2" FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.26-12.36.30:391][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2026.03.26-12.36.30:413][763]LogSavePackage: Moving output files for package: /Game/Level2
+[2026.03.26-12.36.30:414][763]LogSavePackage: Moving '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Saved/Level273EDBD524507514DE245EDA42B0A6834.tmp' to '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/Level2.umap'
+[2026.03.26-12.36.30:421][763]LogFileHelpers: Saving map 'Level2' took 0.063
+[2026.03.26-12.36.30:434][763]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.407 ms (total: 540.738 ms)
+[2026.03.26-12.36.30:516][764]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.36.30:516][764]LogContentValidation: Enabled validators:
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.36.30:516][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.36.30:517][764]AssetCheck: /Game/Level2 Validating asset
+[2026.03.26-12.37.47:255][482]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PaperCatCharacter/BP_PaperCatCharacte.BP_PaperCatCharacte
+[2026.03.26-12.37.47:256][482]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.26-12.37.47:282][482]LogStreaming: Display: FlushAsyncLoading(338): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-12.37.48:397][482]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.26-12.37.48:645][485]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.26-12.37.59:179][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.03.26-12.38.00:973][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.26-12.38.01:027][188]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PaperCatCharacter/BP_PaperCatCharacte] ([2] browsable assets)...
+[2026.03.26-12.38.01:027][188]OBJ SavePackage: Finished generating thumbnails for package [/Game/PaperCatCharacter/BP_PaperCatCharacte]
+[2026.03.26-12.38.01:051][188]LogSavePackage: Moving output files for package: /Game/PaperCatCharacter/BP_PaperCatCharacte
+[2026.03.26-12.38.01:051][188]LogSavePackage: Moving '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Saved/BP_PaperCatCharacte0F11A3934F536677A359B79E652B47BD.tmp' to '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/PaperCatCharacter/BP_PaperCatCharacte.uasset'
+[2026.03.26-12.38.01:062][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.798 ms (total: 629.536 ms)
+[2026.03.26-12.38.01:122][188]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.26-12.38.01:122][188]LogContentValidation: Enabled validators:
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.26-12.38.01:122][188]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.26-12.38.01:122][188]AssetCheck: /Game/PaperCatCharacter/BP_PaperCatCharacte Validating asset
+[2026.03.26-12.38.02:578][273]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.26-12.38.02:578][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.26-12.38.02:632][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
