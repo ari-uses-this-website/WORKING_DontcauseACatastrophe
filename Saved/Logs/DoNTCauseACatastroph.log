@@ -15591,3 +15591,93 @@ FPackageName: Skipped package /Game/InteriorTileSets/Extracted_Sprites/Furniture
 [2026.05.10-19.36.45:078][905]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 4s
 [2026.05.10-19.36.45:078][905]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
 [2026.05.10-19.36.45:397][905]LogStreaming: Display: FlushAsyncLoading(710): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.10-19.40.21:403][841]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_PauseMenu.WB_PauseMenu
+[2026.05.10-19.40.21:404][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_105
+[2026.05.10-19.40.21:413][841]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_106
+[2026.05.10-19.40.27:608][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.10-19.40.28:179][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.10-19.40.28:259][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_PauseMenu] ([2] browsable assets)...
+[2026.05.10-19.40.28:268][196]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_PauseMenu.WB_PauseMenu]
+[2026.05.10-19.40.28:268][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_PauseMenu]
+[2026.05.10-19.40.28:268][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_PauseMenu" FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_PauseMenu.uasset" SILENT=true
+[2026.05.10-19.40.28:280][196]LogSavePackage: Moving output files for package: /Game/UI/WB_PauseMenu
+[2026.05.10-19.40.28:280][196]LogSavePackage: Moving '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Saved/WB_PauseMenuF1DA248B45BB4E17A93827A9E5168139.tmp' to '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_PauseMenu.uasset'
+[2026.05.10-19.40.28:296][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.195 ms (total: 26.2 sec)
+[2026.05.10-19.40.28:361][196]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.10-19.40.28:361][196]LogContentValidation: Enabled validators:
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.10-19.40.28:361][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.10-19.40.28:362][196]AssetCheck: /Game/UI/WB_PauseMenu Validating asset
+[2026.05.10-19.40.43:824][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.05.10-19.40.44:423][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.10-19.40.44:490][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_PauseMenu] ([2] browsable assets)...
+[2026.05.10-19.40.44:494][152]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_PauseMenu.WB_PauseMenu]
+[2026.05.10-19.40.44:494][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_PauseMenu]
+[2026.05.10-19.40.44:494][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_PauseMenu" FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_PauseMenu.uasset" SILENT=true
+[2026.05.10-19.40.44:506][152]LogSavePackage: Moving output files for package: /Game/UI/WB_PauseMenu
+[2026.05.10-19.40.44:506][152]LogSavePackage: Moving '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Saved/WB_PauseMenu0E6AE72E416E715469C3E6A9F636E87D.tmp' to '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_PauseMenu.uasset'
+[2026.05.10-19.40.44:518][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.232 ms (total: 26.3 sec)
+[2026.05.10-19.40.44:584][152]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.10-19.40.44:584][152]LogContentValidation: Enabled validators:
+[2026.05.10-19.40.44:584][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.10-19.40.44:584][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.10-19.40.44:584][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.10-19.40.44:584][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.10-19.40.44:584][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.10-19.40.44:585][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.10-19.40.44:585][152]AssetCheck: /Game/UI/WB_PauseMenu Validating asset
+[2026.05.10-19.40.46:919][291]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2026.05.10-19.40.46:919][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.10-19.40.46:930][291]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2026.05.10-19.40.46:930][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.10-19.40.46:991][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.05.10-19.40.51:612][556]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Timer.WB_Timer
+[2026.05.10-19.40.51:612][556]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_111
+[2026.05.10-19.40.51:621][556]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_112
+[2026.05.10-19.41.23:329][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.05.10-19.41.23:704][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.10-19.41.23:766][419]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_Timer] ([2] browsable assets)...
+[2026.05.10-19.41.23:771][419]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_Timer.WB_Timer]
+[2026.05.10-19.41.23:771][419]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_Timer]
+[2026.05.10-19.41.23:771][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Timer" FILE="../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_Timer.uasset" SILENT=true
+[2026.05.10-19.41.23:799][419]LogSavePackage: Moving output files for package: /Game/UI/WB_Timer
+[2026.05.10-19.41.23:800][419]LogSavePackage: Moving '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Saved/WB_TimerF9A7530F42BF37AB4CD6E4911A192D2C.tmp' to '../../../../../../Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/Content/UI/WB_Timer.uasset'
+[2026.05.10-19.41.23:810][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.799 ms (total: 26.4 sec)
+[2026.05.10-19.41.23:869][419]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.10-19.41.23:869][419]LogContentValidation: Enabled validators:
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.10-19.41.23:869][419]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.10-19.41.23:872][419]AssetCheck: /Game/UI/WB_Timer Validating asset
+[2026.05.10-19.41.25:587][521]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2026.05.10-19.41.25:587][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.10-19.41.25:597][521]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2026.05.10-19.41.25:597][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.10-19.41.25:652][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.10-19.41.28:297][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.05.10-19.41.28:451][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.05.10-19.41.32:603][883]LogSlate: External Image Picker: DecompressImage failed
+[2026.05.10-19.42.38:393][569]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/" -install="C:/Users/cruiz/Documents/OneDrive/Desktop/DoNTCauseACatastrophe_FinishedGame.zip"" -nocompile -nocompileuat ]
+[2026.05.10-19.42.38:457][569]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.05.10-19.42.38:500][571]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.05.10-19.42.38:618][573]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.05.10-19.42.38:629][573]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/Users/cruiz/Documents/GitHub/WORKING_DontcauseACatastrophe/ -install=C:/Users/cruiz/Documents/OneDrive/Desktop/DoNTCauseACatastrophe_FinishedGame.zip -nocompile -nocompileuat
+[2026.05.10-19.42.38:736][577]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.05.10-19.42.39:025][595]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.29 s.
+[2026.05.10-19.42.39:089][599]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.05.10-19.42.39:343][614]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.05.10-19.42.39:343][614]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.05.10-19.42.39:343][614]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\cruiz\Documents\GitHub\WORKING_DontcauseACatastrophe
+[2026.05.10-19.42.39:343][614]UATHelper: Zip Project Task (Windows (Editor)): Install directory: C:/Users/cruiz/Documents/OneDrive/Desktop/DoNTCauseACatastrophe_FinishedGame.zip
+[2026.05.10-19.42.39:343][614]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.05.10-19.42.41:229][727]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.05.10-19.42.41:229][727]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.05.10-19.42.41:240][728]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 2s
+[2026.05.10-19.42.41:240][728]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
